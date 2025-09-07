@@ -18,4 +18,4 @@ Well-commented Java code enhancing readability.
 Structured sections detailing problem statements, logic flow, and outputs.
 
 About:
-Java Assignment submission – Rakesh (2401201064)
+Java Assignment submission – Namrata (2401201049)
